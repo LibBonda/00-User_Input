@@ -1,0 +1,15 @@
+
+label{
+    font-size: 25px;
+}
+input{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    border-radius: 15px;
+    
+}
+
+button{
+    font-size: 25px;
+    border-radius: 10px;
+}
